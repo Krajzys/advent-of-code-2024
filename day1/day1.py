@@ -1,5 +1,4 @@
 import argparse
-import heapq
 
 parser = argparse.ArgumentParser()
 parser.add_argument('filename')
